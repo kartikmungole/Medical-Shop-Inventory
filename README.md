@@ -18,6 +18,6 @@ The Medical Shop Inventory App is a simple web application that allows users to 
 ## Usage
 - Add Medicines: On the Home page, enter the medicine name in the input box and click the "Add Medicine" button to add it to the inventory.
 - Search for Medicines: Use the search bar on the Home page to search for a medicine by name.
-View Available Medicines: Navigate to the Available Medicines page to see a list of all available medicines.
-Remove Medicines: On the Available Medicines page, click the "Remove" button next to a medicine to delete it from the inventory.
+* View Available Medicines: Navigate to the Available Medicines page to see a list of all available medicines.
+* Remove Medicines: On the Available Medicines page, click the "Remove" button next to a medicine to delete it from the inventory.
 
