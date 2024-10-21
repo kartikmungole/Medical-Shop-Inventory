@@ -16,6 +16,7 @@ The Medical Shop Inventory App is a simple web application that allows users to 
 - CSS3
 - JavaScript (ES6+)
 
+
 ## Usage
 - Add Medicines: On the Home page, enter the medicine name in the input box and click the "Add Medicine" button to add it to the inventory.
 - Search for Medicines: Use the search bar on the Home page to search for a medicine by name.
