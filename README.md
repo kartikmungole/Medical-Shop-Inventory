@@ -1,4 +1,4 @@
-## Medica Shop Inventor﻿y
+## Medical Shop Inventor﻿y:
  
 #### Description
 The Medical Shop Inventory App is a simple web application that allows users to manage medicines in a medical shop. Users can add, search, and remove medicines from the inventory. The app is built using HTML, CSS, and JavaScript and provides a two-page interface for managing and viewing available medicines.
@@ -9,7 +9,6 @@ The Medical Shop Inventory App is a simple web application that allows users to 
 - Remove medicines from the inventory
 - View a list of available medicines
 - Data persistence using localStorage for retaining the list of medicines across page reloads
-
 
 
 ## Technologies Used
