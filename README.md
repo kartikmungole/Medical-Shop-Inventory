@@ -11,7 +11,6 @@ The Medical Shop Inventory App is a simple web application that allows users to 
 - Data persistence using localStorage for retaining the list of medicines across page reloads
 
 
-
 ## Technologies Used
 - HTML5
 - CSS3
